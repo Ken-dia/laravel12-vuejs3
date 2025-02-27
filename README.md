@@ -62,9 +62,9 @@ Votre application devrait maintenant être accessible à l'adresse `http://local
 
 Pour utiliser ce projet, vous pouvez suivre les étapes ci-dessus pour l'installer et le lancer. Vous pouvez ensuite commencer à développer votre application en utilisant Laravel pour le backend, Vue.js pour le frontend et Tailwind CSS pour le style.
 
-## Contribuer
+## Déploiement
 
-Merci de considérer contribuer à ce projet ! Le guide de contribution peut être trouvé dans la documentation de Laravel.
+Ce projet est déployé sur le cloud Laravel et est accessible à l'adresse suivante : [https://laravel12-vuejs-master-qgfb31.laravel.cloud/](https://laravel12-vuejs-master-qgfb31.laravel.cloud/)
 
 ## Licence
 
