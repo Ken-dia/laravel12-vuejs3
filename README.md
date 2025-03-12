@@ -17,7 +17,7 @@ Pour installer et exécuter ce projet, suivez les étapes ci-dessous :
 
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/votre-utilisateur/laravel12-vuejs.git
+    git clone https://github.com/Ken-dia/laravel12-vuejs3.git
     cd laravel12-vuejs
     ```
 
